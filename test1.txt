@@ -1,2 +1,6 @@
 
+<<<<<<< HEAD
 3rd commit
+=======
+2nd commit
+>>>>>>> 42119bb490bd13510e798218629feae677864a1d
